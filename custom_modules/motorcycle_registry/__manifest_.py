@@ -13,7 +13,7 @@
     'data':[],
     'demo': [],
     'assets': [],
-    'instalable': True,
+    'installable': True,
     'auto_install': False,
     'application':True
 }   
