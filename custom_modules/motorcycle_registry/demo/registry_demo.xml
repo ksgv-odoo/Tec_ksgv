@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="registry_01" model="motorcycle.registry">
+            <field name="registry_number">MRN0001</field>
+            <field name="vin">XLAD96AC112233</field>
+            <field name="first_name">Karla</field>
+             <field name="last_name">Guzman</field>
+        </record>
+        <record id="registry_02" model="motorcycle.registry">
+            <field name="registry_number">MRN0002</field>
+            <field name="vin">DAER98DC445678 </field>
+            <field name="first_name">Mar</field>
+             <field name="last_name">Rodriguez</field>
+        </record>
+        <record id="registry_03" model="motorcycle.registry">
+            <field name="registry_number">MRN0003</field>
+            <field name="vin">TYCX00RT324376</field>
+            <field name="first_name">Eduardo</field>
+             <field name="last_name">Cedillo</field>
+        </record>
+    </data>
+</odoo>
+
