@@ -10,7 +10,11 @@
     'license': 'OPL-1',
 
     'depends': ['base'],
-    'data':[],
+    'data':[
+        'security/registry_groups.xml',
+        'security/ir.model.access.csv',
+        'security/registry_security.xml',
+    ],
     'demo': [
         'demo/registry_demo.xml',
     ],
