@@ -14,6 +14,7 @@
         'security/registry_groups.xml',
         'security/ir.model.access.csv',
         'security/registry_security.xml','views/registry_menuitems.xml',
+        'views/registry_view.xml',
     ],
     'demo': [
         'demo/registry_demo.xml',
